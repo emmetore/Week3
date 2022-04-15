@@ -1,3 +1,4 @@
 # Week3
-Week 3 Assignment
-#Week3
+
+
+This is a coding assignment on Arrays and Function
